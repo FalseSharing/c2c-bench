@@ -64,3 +64,4 @@ int main() {
     run_padded();
     return 0;
 }
+// rev 1 [2022-12-16 16:46:18 +0300]: cache check
